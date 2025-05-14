@@ -8,7 +8,7 @@ import sys
 import os
 import random
 
-from bot_utils_qt import BotController
+from bot_utils import BotController
 from PySide6.QtCore import *
 from PySide6.QtGui import *
 from PySide6.QtWidgets import *
@@ -54,7 +54,7 @@ class BotControllerGUI(QMainWindow):
         config_group = QGroupBox("Configuration")
         config_layout = QFormLayout()
 
-        self.setWindowIcon(QIcon('window_icon.ico'))
+        self.setWindowIcon(QIcon('window_icon.png'))
         
         self.username_input = QLineEdit("")
         self.username_input.setPlaceholderText("Discord username to monitor")
