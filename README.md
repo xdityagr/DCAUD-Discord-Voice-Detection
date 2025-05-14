@@ -1,4 +1,4 @@
-![Alt text](https://github.com/xdityagr/DiscordVoiceDetection/blob/main/src/dcaud_banner.png?raw=true "Banner Image")
+![Alt text](https://github.com/xdityagr/DCAUD-Discord-Voice-Detection/blob/main/src/dcaud_banner.png?raw=true "Banner Image")
 
 # DCAUD: Discord Audio Detection Bot
 
